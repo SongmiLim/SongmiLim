@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Songmi&fontSize=90" />
 <br>
 <br>
-<h3>🌱 I’m currently learning Computer Graphics and Unreal Engine</h3>
+<h3>🌱 I’m interested in Computer Graphics and Unreal Engine</h3>
 <br>
 <br>
 <br>
