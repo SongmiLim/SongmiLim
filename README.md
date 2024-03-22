@@ -42,7 +42,7 @@ https://programming-language121.tistory.com
 <br>
 
 <h3><b>⚡ Portfolio</b></h3>
-https://lateral-tumbleweed-2c8.notion.site/Resume-c3b04e1dc270413c814cc165b42bc8cb
+https://lateral-tumbleweed-2c8.notion.site/ca9fc24db80b4fb8aef164525fd2e155?pvs=74
 <br>
 <br>
 <br>
