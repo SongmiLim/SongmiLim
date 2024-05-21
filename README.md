@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Songmi&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=13&height=300&section=header&text=Hi%20I'm%20Songmi&fontSize=90" />
 <br>
 <br>
-<h3>🌱 I’m interested in Computer Graphics and Unreal Engine</h3>
+<h3>🌱 I’m interested in 2D, 3D Computer Graphics </h3>
 <br>
 <br>
 <br>
 <div><h3>📚 STACKS</h2></div>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=black"/>
 <br>
 <br>
 <br>
