@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <div><h3>📚 STACKS</h2></div>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=black"/>
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=black"/>
 <br>
 <br>
 <br>
@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<b><h3>🔭 Tech Blog </h3></a>
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://velog.io/@jiyoungzero)--><!--<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>-->
-https://programming-language121.tistory.com
-<br>
-<br>
-<br>
 
 <h3><b>⚡ Portfolio</b></h3>
 https://lateral-tumbleweed-2c8.notion.site/ca9fc24db80b4fb8aef164525fd2e155?pvs=74
