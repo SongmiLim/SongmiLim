@@ -18,30 +18,28 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=13&height=300&section=header&text=Hi%20I'm%20Songmi&fontSize=90" />
 <br>
 <br>
-<h3>🌱 I’m interested in 2D, 3D Computer Graphics </h3>
-<br>
-<br>
-<br>
-<div><h3>📚 STACKS</h2></div>
-
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=black"/>
-<br>
+<h4> I’m interested in 2D, 3D Computer Graphics. </h4>
+<h4> I have experience in graphics development with C++ and OpenGL. </h4>
+<h4> I focus on creating graphics that deliver an immersive, intuitive user experience while maintaining a balance between performance and visual quality. </h4>
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiLim)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-<br>
+<h3> SKILLS</h3>
 
+ <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff"/> 
+ <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white"> <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
 
-<h3><b>⚡ Portfolio</b></h3>
-https://lateral-tumbleweed-2c8.notion.site/ca9fc24db80b4fb8aef164525fd2e155?pvs=74
 <br>
 <br>
 <br>
 
-<h3><b>📧 E-mail </b></h3>
+<h3> PORTFOLIO </h3>
+https://lateral-tumbleweed-2c8.notion.site/23f5b3611bc480208d4dfca607e05b04?pvs=74
+<br>
+<br>
+<br>
+
+<h3> E-MAIL </h3>
 lsmi00121@gmail.com
 <br>
 <br>
