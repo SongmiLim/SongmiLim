@@ -33,14 +33,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3> PORTFOLIO </h3>
-https://lateral-tumbleweed-2c8.notion.site/23f5b3611bc480208d4dfca607e05b04?pvs=74
-<br>
-<br>
-<br>
-
-<h3> E-MAIL </h3>
-lsmi00121@gmail.com
-<br>
-<br>
-<br>
